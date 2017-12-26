@@ -9,8 +9,11 @@ The API is used to manage users in a MongoDB database.
 This application was developed using [ExpressJS](http://expressjs.com/). MongoDB was used for persisting data with [Mongoose](https://mongoosejs.com/) as [ORM](https://en.wikipedia.org/wiki/Object-relational_mapping).
 
 ### Installation
-
-
+* Start up your terminal (or Command Prompt on Windows OS).
+* Clone the repository by entering the command `git clone https://github.com/solitude687/UserManager.git` in the terminal.
+* Navigate to the project folder using `cd UserManager` on your terminal (or command prompt)
+* Give the run.sh file executable rights by typing `chmod +x run.sh`
+* Run the run.sh file by typing `./run.sh`
 
 ### Testing
 To ensure that your installation is successful you'll need to run tests.
